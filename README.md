@@ -16,6 +16,8 @@ Simply add a script element referencing the ko.linq javascript file after the kn
 
 ## Example
 
+[http://jsfiddle.net/ozbe/spsLV/](jsFiddle)
+
 ```javascript
 var output = function (value) {
 	console.log(value);
